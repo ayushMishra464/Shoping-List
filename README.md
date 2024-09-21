@@ -13,11 +13,10 @@ This is a simple Wishlist app built using Kotlin with the MVVM architecture and 
 
 Below are some screenshots of the app to showcase the UI and functionality:
 
-| Home Screen | Add Wish | Update Wish |
-| ----------- | -------- | ----------- |
-| ![Add Wish](https://github.com/user-attachments/assets/1b78a491-2efc-4653-8473-75ff4af56328)
-) | ![Home Screen](https://github.com/user-attachments/assets/53f3d178-c364-4129-9c2c-62a1260f06cf)
-) | ![Update Wish](https://github.com/user-attachments/assets/87eb6b79-b767-465c-8771-2e3f553fa900)
+
+[Add Wish](https://github.com/user-attachments/assets/1b78a491-2efc-4653-8473-75ff4af56328)
+ ![Home Screen](https://github.com/user-attachments/assets/53f3d178-c364-4129-9c2c-62a1260f06cf)
+ ![Update Wish](https://github.com/user-attachments/assets/87eb6b79-b767-465c-8771-2e3f553fa900)
 
 Make sure to place the screenshots in a `screenshots` folder in your repository, and adjust the image file paths as necessary.
 
