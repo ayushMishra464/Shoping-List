@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-09-22 at 12 11 50 AM (2)](https://github.com/user-attachments/assets/b20a050a-7258-4492-85b5-0d29c6c6ec2b)
 # Wishlist App
 
 This is a simple Wishlist app built using Kotlin with the MVVM architecture and Room database for data persistence. The app allows users to create, update, and delete wishlist items while ensuring that the data is preserved even after the app is closed.
